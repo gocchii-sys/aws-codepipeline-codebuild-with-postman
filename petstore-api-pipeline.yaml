@@ -266,7 +266,7 @@ Resources:
           ActionTypeId:
             Owner: ThirdParty
             Category: Source
-            Version: 1
+            Version: 2
             Provider: GitHub
           Configuration:
             Owner: !Ref GitHubUser
